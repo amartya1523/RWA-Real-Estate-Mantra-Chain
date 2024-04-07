@@ -8,7 +8,7 @@ https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain/assets/133855728/998
 
 <h1>Setup</h1>
 Clone the repository:
-git clone [https://github.com/your-username/project-name.git](https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain)
+git clone https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain
 
 Navigate to the project directory:
 cd project-name
@@ -24,7 +24,7 @@ npm start
 
 This will start the development server and you should be able to view the project in your browser at http://localhost:3000.
 
-<h3>Dependencies</h3>
+<h2>Dependencies</h2>
 Make sure you have the following dependencies installed on your machine before running the project:
 
 Node.js (v14.x or later)
