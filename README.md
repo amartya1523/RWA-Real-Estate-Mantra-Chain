@@ -6,9 +6,9 @@ Welcome to the RWA-Real-Estate-Mantra-Chain! This project is built using Next.js
 https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain/assets/133855728/9980599e-b479-484c-a239-978fff22eb58
 
 
-__Setup__
+<h1>Setup</h1>
 Clone the repository:
-git clone https://github.com/your-username/project-name.git
+git clone [https://github.com/your-username/project-name.git](https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain)
 
 Navigate to the project directory:
 cd project-name
@@ -16,7 +16,7 @@ cd project-name
 Install dependencies:
 npm install
 
-__Running the Project__
+<h2>Running the Project</h2>
 Once you have cloned the repository and installed the dependencies, you can run the project using the following commands:
 
 Start the development server:
@@ -24,7 +24,7 @@ npm start
 
 This will start the development server and you should be able to view the project in your browser at http://localhost:3000.
 
-__Dependencies__
+<h3>Dependencies</h3>
 Make sure you have the following dependencies installed on your machine before running the project:
 
 Node.js (v14.x or later)
@@ -43,5 +43,5 @@ Feel free to reach out if you encounter any issues or have any questions! Happy 
 
 
 
-https://github.com/amartya1523/RWA-Real-Estate-Mantra-Chain/assets/133855728/0526a324-5c43-403b-b600-3b284f559b65
+
 
